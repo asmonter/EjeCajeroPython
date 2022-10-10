@@ -29,10 +29,3 @@ if __name__ == '__main__':
                 val.getMoney()
             elif res == "3":
                 val.history()
-
-
-
-
-
-
-
