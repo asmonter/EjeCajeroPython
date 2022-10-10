@@ -37,3 +37,6 @@ class Validations:
     def history(self):
         for x in range(0, len(self.movimientos)):
             print("Movimiento {}. {}".format(x, self.movimientos[x]))
+
+    def cambios(self):
+        print("Este es el cambio")
